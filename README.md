@@ -26,7 +26,7 @@ Report issues via our support channels – we'll assist promptly!
 </details>
 
 <details>
-<summary>Other</summary>
+<summary>其他(Other)</summary>
 衍生作品请遵循AGPL3。
 
 Derivative works must comply with the AGPL-3.0 license. Always credit the original author(s).
